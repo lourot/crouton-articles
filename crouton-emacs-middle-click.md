@@ -52,6 +52,9 @@ emacs. To do so, add the following line to your emacs configuration and restart 
 (global-set-key (kbd "<M-mouse-2>") 'mouse-yank-primary)
 ```
 
+For other emacs configuration tips for crouton, see
+[crouton-emacs-conf](https://github.com/AurelienLourot/crouton-emacs-conf).
+
 ---
 
 > // http://lourot.com/articles/crouton-emacs-middle-click

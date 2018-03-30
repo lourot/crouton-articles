@@ -59,6 +59,13 @@ if [-s ~/.Xmodmap]; then
 fi
 ```
 
+## Remapping to Escape (for vim users)
+
+Replace `Caps_Lock` with `Escape`:
+
+```bash
+$ xmodmap -e "keycode 133 = Escape"
+```
 ---
 
 > // http://lourot.com/articles/crouton-caps-lock

@@ -54,7 +54,3 @@ emacs. To do so, add the following line to your emacs configuration and restart 
 
 For other emacs configuration tips for crouton, see
 [crouton-emacs-conf](https://github.com/AurelienLourot/crouton-emacs-conf).
-
----
-
-> // http://lourot.com/articles/crouton-emacs-middle-click

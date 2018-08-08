@@ -66,6 +66,3 @@ Replace `Caps_Lock` with `Escape`:
 ```bash
 $ xmodmap -e "keycode 133 = Escape"
 ```
----
-
-> // http://lourot.com/articles/crouton-caps-lock

@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/AurelienLourot/crouton-articles/master/thirdparty/chromium_icon.jpg" align="right" width="70" height="70">](https://github.com/AurelienLourot/crouton-articles)
+[<img src="https://cdn.jsdelivr.net/gh/AurelienLourot/crouton-articles@bbcccd3825a67635092e85d92129fde6b3bfc771/thirdparty/chromium_icon.jpg" align="right" width="70" height="70">](https://github.com/AurelienLourot/crouton-articles)
 
 # crouton-articles
 

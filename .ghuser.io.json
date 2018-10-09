@@ -1,5 +1,5 @@
 {
   "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
-  "avatar_url": "https://rawgit.com/AurelienLourot/crouton-articles/master/thirdparty/crouton_icon.png",
+  "avatar_url": "https://cdn.jsdelivr.net/gh/AurelienLourot/crouton-articles@bbcccd3825a67635092e85d92129fde6b3bfc771/thirdparty/crouton_icon.png",
   "techs": ["Chrome OS"]
 }
